@@ -23,7 +23,7 @@ int main() {
         printf("x1 = %f\n", x1);
         printf("x2 = %f\n", x2);
     } else {
-        printf("Êîðíè íå ñóùåñòâóþò\n");
+        printf("Корни не существуют\n");
     }
 
     return 0;
